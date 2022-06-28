@@ -1,0 +1,10 @@
+#botao {
+    width:250px;
+    height:250px;
+    font-size:22pt;
+    border-radius:180px;
+}
+
+#botao:hover {
+    background-color: cornflowerblue;
+}

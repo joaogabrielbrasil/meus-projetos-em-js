@@ -1,0 +1,42 @@
+.titulo {
+    color: black;
+    background-color: rgb(184, 54, 7);
+    border-radius: 10px;
+}
+
+.titulo:hover{
+    background-color: white;
+    opacity: 0.3;
+    transition-duration: 2s;
+    border-radius: 10px;
+}
+
+.titulo-principal {
+    text-align: center;
+}
+
+.centro {
+    margin-left: 430px;
+    margin-top: 240px;
+}
+
+#paragrafo1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    position: absolute;
+    left: 460px;
+    background-color: rgb(163, 163, 212); 
+}
+
+#paragrafo2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: rgb(163, 163, 212);
+    position: absolute;
+    left: 460px;
+    top: 470px;
+}
+
+.clique-aqui {
+    box-shadow: 10px 10px 10px rgb(9, 133, 9);
+}
